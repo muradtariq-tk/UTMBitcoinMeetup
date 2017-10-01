@@ -12,8 +12,6 @@ Aim of meetup is to share knowledge related to following technologies
  - Initial Coin Offering (ICOs)
  - Potential of Blockchain based applications
 
-# Agenda:
-To organize regular meetups for covering topics related to technologies mentioned above.
 
 # First meetup topics (Date and place still to be decided)
 - What is Bitcoin
